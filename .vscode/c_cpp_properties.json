@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\glfw-3.4.bin.WIN64\\glfw-3.4.bin.WIN64\\include",
+                "C:\\glew-2.1.0-win32\\glew-2.1.0\\include",
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/mingw64/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
